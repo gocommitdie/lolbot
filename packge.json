@@ -1,0 +1,8 @@
+{
+	-"name": "lolbot",
+	-"version": "1.0.0",
+	-"description": "use ! as index",
+	-"main": "bot.js",
+	-"author: "lolx",
+	-"dependencies":{}
+}
